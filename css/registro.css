@@ -1,7 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
-    background-image: url(/img/pastel.JPG);
+    background-image: url(https://image.shutterstock.com/z/stock-vector-cute-bakery-pattern-seamless-in-pastel-color-kawaii-cupcake-background-1458189593.jpg);
     background-size: cover;
     background-attachment: fixed;
     opacity: 0.7;
@@ -12,12 +12,12 @@ body{
 }
 .formulario{
     width: 300px;
-    border: 20px;
+    border: 3px solid black;
     height: 70%;
     margin-top: 150px;
     margin-left: 550px;
-    border-radius: 5px;
-    background: #f47e8e;
+    border-radius: 10px;
+    background: #f19cc4;
 }
 input[type="text"],
 input[type="password"]{
