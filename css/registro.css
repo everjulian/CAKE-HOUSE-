@@ -1,7 +1,7 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
-    background-image: url(https://image.shutterstock.com/z/stock-vector-cute-bakery-pattern-seamless-in-pastel-color-kawaii-cupcake-background-1458189593.jpg);
+    background-image: url(https://i.pinimg.com/564x/3a/31/af/3a31af0cb0c3861315030ceec9eda854--cute-wallpaper-backgrounds-pastel-iphone-wallpaper.jpg);
     background-size: cover;
     background-attachment: fixed;
     opacity: 0.7;
@@ -12,17 +12,17 @@ body{
 }
 .formulario{
     width: 300px;
-    border: 3px solid black;
+    border: 1px solid black;
     height: 70%;
     margin-top: 150px;
     margin-left: 550px;
     border-radius: 10px;
-    background: #f19cc4;
+    background: #8cfca4;
 }
 input[type="text"],
 input[type="password"]{
     padding: 5px;
-    background: rgb(167, 223, 245);
+    background: #cfffca;
     border-radius: 10px;
 }
 .button{
@@ -31,7 +31,7 @@ input[type="password"]{
     border-radius: 5px;
     margin-left: 85px;
     cursor: pointer;
-    background: rgb(243, 139, 156);
+    background: #c999af;
 
 }
 
