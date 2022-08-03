@@ -179,7 +179,7 @@ header{
     font-family: 'Fjalla One', sans-serif;
     font-size: 1.5em;
     display: grid;
-    grid-template-columns: repeat(3,1fr);
+    grid-template-columns: repeat(4,1fr);
     justify-items: center;
     margin-top: 3%;
 }
@@ -197,6 +197,9 @@ header{
     text-decoration: underline;
 }
 .botonInformacion:hover{
+    text-decoration: underline;
+}
+.botonPedidos:hover{
     text-decoration: underline;
 }
 
