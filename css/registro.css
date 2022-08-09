@@ -14,6 +14,7 @@ body{
     
 }
 
+
 /**caja**/
 .caja{
     
@@ -60,7 +61,7 @@ input[type="password"]{
     background:#F59FBC;
     text-decoration: none;
     color: #583E3F;
-    margin-right: 50px;
+    margin-right: 80px;
 }
 
 .contenedor{

@@ -359,3 +359,30 @@ footer{
     color: #fff;
 }
 
+.navegador_principal{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 1.5em;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    justify-items: center;
+    margin-top: 3%;
+}
+
+.navegador_principal a{
+    color: #583E3F;
+}
+.botonInformacion,.botonInicio{
+    text-decoration: none;
+}
+.botonTienda{
+    text-decoration: underline;
+}
+.botonInicio:hover{
+    text-decoration: underline;
+}
+.botonInformacion:hover{
+    text-decoration: underline;
+}
+.botonPedidos:hover{
+    text-decoration: underline;
+}
