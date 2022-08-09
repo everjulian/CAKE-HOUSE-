@@ -222,7 +222,8 @@ header{
 }
 
 .navegador_tienda a:hover{
-    color: #FDC674;
+
+    font-size: 1.5rem;
 }
 
 /**Buscador**/

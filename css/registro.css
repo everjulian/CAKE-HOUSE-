@@ -6,6 +6,7 @@ body{
     background-attachment: fixed;
     display: flex;
     justify-content: center;
+    text-align: center;
 }
 
 *{
@@ -20,6 +21,7 @@ body{
     top: 25vh;
     width: 300px;
     height: 70%;
+    text-align: center;
 
 }
 
@@ -56,13 +58,16 @@ input[type="password"]{
     margin-left: 85px;
     cursor: pointer;
     background:#F59FBC;
-
+    text-decoration: none;
+    color: #583E3F;
+    margin-right: 50px;
 }
 
 .contenedor{
     width: 100%;
     padding: 15px;
     border-radius: 5px;
+    text-align: center;
 }
 h1{
     text-align: center;
